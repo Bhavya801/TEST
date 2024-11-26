@@ -1,5 +1,3 @@
----
-
 # **Case Navigator API Documentation**
 
 ### **Overview**
